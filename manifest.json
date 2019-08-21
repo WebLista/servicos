@@ -1,0 +1,90 @@
+{
+    "dir": "ltr",
+    "lang": "pt",
+    "name": "WebLista",
+    "scope": "https://www.weblista.site/",
+    "display": "standalone",
+    "start_url": "https://www.weblista.site/",
+    "short_name": "WebLista",
+    "theme_color": "#075E54",
+    "description": "Lista Comercial, Empresarial, de Profissionais e Serviços em Baixa Grande do Ribeiro-Piauí",
+    "orientation": "Portrait",
+    "background_color": "#128C7E",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/favicon.ico",
+            "sizes": "16x16"
+        },
+        {
+            "src": "/images/-WI7q7PW8xt8/XUuWZYE9yXI/AAAAAAAAAUE/aKmDAjbQ5ukcUW2fCjbHlG7xl72vmBbhwCLcBGAs/s1600/apple-icon-57x57.png",
+            "sizes": "57x57",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/-fHD_6iqQUdQ/XUuWZzwxyjI/AAAAAAAAAUI/nkpLOVAobM8XUKp1PHb_zDbku-Ok-EoeQCLcBGAs/s1600/apple-icon-60x60.png",
+            "sizes": "60x60",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/-57Nmw5hHAd8/XUuWaXyHrmI/AAAAAAAAAUM/uep1zYhn030NmPfd9Vl94OnbYOI63PWJACLcBGAs/s1600/apple-icon-72x72.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/-wE3y3MFhi48/XUuWawswgoI/AAAAAAAAAUQ/ePuIWb7jbn4gnjvNDVl1oGVI0rq-0xUdQCLcBGAs/s1600/apple-icon-76x76.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/-j-KViMT1g5o/XUuWXzX3T0I/AAAAAAAAATw/mxISHBX9YtEvtaD3flWCkHROit27SjWmACLcBGAs/s1600/apple-icon-114x114.png",
+            "sizes": "114x114",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/-X1w4m6hcTMs/XUuWYOPNevI/AAAAAAAAAT0/umhohDQ7T5QNFlv-i3_Rh9aBOOvJHcxXQCLcBGAs/s1600/apple-icon-120x120.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/-adqJuXwVQyI/XUuWYRozP2I/AAAAAAAAAT4/cbVHSFAx6Zc9weoji2JVMscxAyeGLfZngCLcBGAs/s1600/apple-icon-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/-wDTnFineCiY/XUuWYhpj_yI/AAAAAAAAAT8/tQDGFxrPIkg5u_FZi38_SuoAhc0HACq2ACLcBGAs/s1600/apple-icon-152x152.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/-FvvPiFo6-WE/XUuWYx_W-hI/AAAAAAAAAUA/3cxr50Wp5kMXK7RoRDkGXhzmhd17zIkDQCLcBGAs/s1600/apple-icon-180x180.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/-IfYHsCV5Kv4/XUuWWmJ4QOI/AAAAAAAAATg/v2_7aWeADjokpGpN092BsezWL4xM2RpdwCLcBGAs/s1600/android-icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/-unxVOoEoP0c/XUuWkvvSAYI/AAAAAAAAAUc/GBVkzHE8jw8X7_8UcSTkvQnpD4B7k_zbQCLcBGAs/s1600/favicon-32x32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/-PyNhNSGI-D4/XUuWkn0dwDI/AAAAAAAAAUk/F7KNn3BAGNE2OGEUDjZsjsXmpS1rk_E0wCLcBGAs/s1600/favicon-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/-4nmvO7WPLJM/XUuWleFdK1I/AAAAAAAAAUo/gT9cLs_vTkUJ8mIxiGDH1GVsTDW0Ly1hwCLcBGAs/s1600/favicon.ico",
+            "sizes": "16x16",
+            "type": "image/vnd.microsoft.icon"
+        },
+        {
+            "src": "/images/favicon.ico",
+            "sizes": "16x16"
+        }
+    ]
+}
