@@ -1,13 +1,3 @@
-var files = [
-  "https://www.weblista.site",
-  "https://www.weblista.site/p/imagens.html",
-  "img/entrada.jpg",
-  "img/icon.png",
-  "img/ticket.png",
-  "js/barcode.js",
-  "js/install.js",
-];
-// dev only
 if (typeof files == 'undefined') {
   var files = [];
 } else {
