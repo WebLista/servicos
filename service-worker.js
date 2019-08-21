@@ -1,7 +1,7 @@
 if (typeof files == 'undefined') {
   var files = [];
 } else {
-  files.push('./');
+  files.push('https://www.weblista.site');
 }
 
 var CACHE_NAME = 'shopping-v13';
